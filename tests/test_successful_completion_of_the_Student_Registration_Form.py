@@ -9,10 +9,10 @@ def test_register_demo_user_using_practice_form(setup_browser):
 
     app = RegistrationPage()
 
-    with allure.step("Открыли страницу регистрации"):
+    with allure.step("Открываем страницу регистрации"):
         app.open_demoqa_practice_form()
 
-    with allure.step("Убрали рекламный банер"):
+    with allure.step("Убираем рекламный банер"):
         app.script_trick()
 
     with allure.step("Заполняем все поля формы регистрации"):
