@@ -20,4 +20,4 @@
 2. [Allure отчёт](https://jenkins.autotests.cloud/job/QA_guru_python_6_13_student_Ter-Akopova/10/allure/)
 3. [Telegram chat с отчетами](https://t.me/+5Su0cvYZyx9lYWMy)
 
-![img.png](!(..%2F..%2FOneDrive%2F%C4%EE%EA%F3%EC%E5%ED%F2%FB%2FLightshot%2FScreenshot_24.png))
+![..%2F..%2FOneDrive%2F%C4%EE%EA%F3%EC%E5%ED%F2%FB%2FLightshot%2FScreenshot_24.png]
